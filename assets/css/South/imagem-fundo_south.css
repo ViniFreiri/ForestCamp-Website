@@ -1,5 +1,6 @@
 .south__principal {
-    display: flex;
+   width: 100%;
+   display: flex;
    background-color:rgba(162, 191, 233, 0.1);
    background: url(../../src/Backgrounds/plano-fundo-south.jpg);
    background-size: cover;
