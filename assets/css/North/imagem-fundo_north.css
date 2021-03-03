@@ -1,7 +1,7 @@
 .north__principal {
     width: 100%;
     display: flex;
-    background: url(/assets/src/Backgrounds/lago\ plano-de-fundo\ North.jpg);
+    background: url(../../assets/src/Backgrounds/lago\ plano-de-fundo\ North.jpg);
     background-color: rgba(162, 191, 233, 0.1);
     background-size: cover;
     background-position: center;
