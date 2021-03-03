@@ -1,7 +1,7 @@
 .north__principal {
     width: 100%;
     display: flex;
-    background: url(assets/src/Backgrounds/plano-fundo-south.jpg);
+    background: url(../../src/Backgrounds/plano-fundo-south.jpg);
     background-color: rgba(162, 191, 233, 0.1);
     background-size: cover;
     background-position: center;
