@@ -1,0 +1,19 @@
+.titulo-estilizado {
+    font-family: 'Mystery Quest', cursive;
+    font-size: 25px;
+}
+
+
+.titulo-principal {
+   font-size: 30px;
+   margin-bottom: -10px;
+
+}
+
+#cor-fonte {
+    color: darkgreen;
+}
+
+#cor-fonte:hover {
+    color: greenyellow;
+}
